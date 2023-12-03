@@ -32,7 +32,7 @@ ______________________________________
 
 ______________________________________
 
-### Unupervised Learning
+### Unsupervised Learning
 
 #### 1. Logistic Regression
 *Presentation:* 19-Dec-2021
