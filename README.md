@@ -1,8 +1,8 @@
 # TUNSA's AI Team: Our Journey with AI
 
-Welcome to the TUNSA (Tunisian Space Association) AI Team's repository, where we document our journey in the field of Artificial Intelligence. Below, you'll find a categorized list of our presentations and collaborative projects, organized by domains.
+Welcome to the TUNSA (Tunisian Space Association) AI Team's repository, where we document our journey in Artificial Intelligence. Below is a categorized list of our presentations and collaborative projects, organized by domains.
 
-All colabs, presentations and learning resources we have used throughout the journey can be found in the following sheet: https://docs.google.com/spreadsheets/d/1nR_P1wmqDBzv-0wLM2uD-m2Ct69jh3RG3ITkfY3nxxM/edit?usp=sharing
+All labs, presentations, and learning resources we have used throughout the journey can be found in the following sheet: https://docs.google.com/spreadsheets/d/1nR_P1wmqDBzv-0wLM2uD-m2Ct69jh3RG3ITkfY3nxxM/edit?usp=sharing
 ______________________________________
 
 ## Machine Learning
@@ -11,6 +11,7 @@ ______________________________________
 *Presentation:* 5-Dec-2021
 
 *By:* Rayen BEN ISMAIL
+______________________________________
 
 ### Supervised Learning
 
@@ -29,6 +30,8 @@ ______________________________________
 *Presentation:* 19-Dec-2021
 
 *By:* Rayen BEN ISMAIL
+
+______________________________________
 
 ### Unsupervised Learning
 
@@ -73,6 +76,7 @@ ________________________________________________________________________________
 *Colabs:*
 - MLPClassifier for Price Range on Mobile Devices	16-Jan-2022
 - Neural Network Modeling for Diabetes Prediction	24-Jun-2022
+___________________________________________________________________
 
 ### CNNs
 
@@ -86,6 +90,7 @@ ________________________________________________________________________________
 - Custom CNN for MNIST Image Classification and Object Localization with TensorFlow	3-Apr-2022
 - MNIST Data: Under-sampling, Balancing, and CNN Model Training for Digit Recognition	26-Mar-2022
 - Pneumonia Detection using VGG16-based CNN Models on Chest X-ray Images	24-Mar-22
+__________________________
 
 #### Object Detection
 
@@ -112,6 +117,7 @@ ________________________________________________________________________________
 *Colabs:*
 - YOLOR Object Detection with PyTorch Setup and Video Inference	3-May-2022
 - Training YOLOR on a Custom Bloodcells Dataset	8-May-2022
+__________________________
 
 #### Image Classification
 
@@ -140,6 +146,7 @@ ________________________________________________________________________________
 ##### 3. Residual Neural Networks
 *Colabs:*
 - ResNet-based Ship Classification using ShipsNet Dataset	10-Jul-2022
+__________________________
 
 #### Image Segmentation
 
@@ -164,6 +171,7 @@ ________________________________________________________________________________
 *Presentation:* 8-Jan-2023
 
 *By:* Rayen BEN ISMAIL
+__________________________
 
 #### Frameworks
 
@@ -178,6 +186,7 @@ ________________________________________________________________________________
 
 *Colabs:*
 - Swimming Pool and Car Detection from Satellite Imagery with PyTorch	10-Jul-2022
+__________________________
 
 #### Satellite Imagery
 
@@ -202,6 +211,7 @@ ________________________________________________________________________________
 *Presentation:* 1-Feb-2023
 
 *By:* Rayen BEN ISMAIL
+___________________________________________________________________
 
 ### NLP
 
@@ -222,6 +232,7 @@ ________________________________________________________________________________
 *Presentation:* 22-Nov-2022
 
 *By:* Rahma BOUJELBEN
+___________________________________________________________________
 
 ### BNNs
 
@@ -286,9 +297,3 @@ III) Frontiers
 13) Neuroscience
 14) Applications and Case Studies
 15) Prospects
-
-
-
-
-
-
