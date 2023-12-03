@@ -254,11 +254,8 @@ ________________________________________________________________________________
 #### Actor-Critic
 - Deep RL A2C for Atari Breakout v0 using stable Baselines 3	9-Oct-2022
 
-#### Cross Entropy Method
-- RL Cross Entropy Method
-
-#### Deep Q-Learning
-- Deep Q-Learning Agent for CartPole-v1 using TensorFlow and Keras-RL	13-Nov-2022
+#### Cross-Entropy Method
+- RL Cross-Entropy Method
 
 #### Tabular Q-Learning
 - FrozenLake-v1 Value Iteration using Tabular Q-Learning
@@ -269,6 +266,29 @@ ________________________________________________________________________________
 - Monte Carlo Methods
 - Multi-armed Bandits
 - Temporal Difference Methods
+____________________________________
+
+### Deep Reinforcement Learning
+
+#### 1. Deep Q-Learning
+- Deep Q-Learning Agent for CartPole-v1 using TensorFlow and Keras-RL	13-Nov-2022
+
+#### 2. Deep Q-Networks (DQN)
+*Presentation:* 19-Nov-2023
+
+*By:* Farouk MILED
+
+*Colabs:*
+- DQN for Atari PONG Game (19-Nov-2023)
+____________________________________
+
+### Multi-Agent Reinforcement Learning
+
+#### Lazy Agents Mathematical Theory and Avoidance
+*Presentation:* 19-Nov-2023
+
+*By:* Oussama MAHFOUDHI
+
 
 __________________________
 
