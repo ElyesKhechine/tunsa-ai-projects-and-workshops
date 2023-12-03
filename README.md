@@ -20,7 +20,6 @@ ______________________________________
 **By:** Fatma CHAOUECH
 
 #### 2. Linear Regression
-
 **Labs:**
 - Linear Regression for USA House Price Prediction with Feature Impact Analysis	(12-Dec-2021)
 - Data Encoding and TensorFlow Regression for House Price Prediction	(2-Jan-2022)
@@ -28,6 +27,7 @@ ______________________________________
 
 #### 3. Over-fitting vs Under-fitting
 **Presentation Date:** 19-Dec-2021
+
 **By:** Rayen BEN ISMAIL
 ______________________________________
 
@@ -35,7 +35,9 @@ ______________________________________
 
 #### 1. Logistic Regression
 **Presentation Date:** 19-Dec-2021
+
 **By:** Fatma CHAOUECH
+
 **Labs:**
 - Fraud Detection with Logistic Regression on Imbalanced Credit Card Transactions Dataset (21-Dec-2021)
 
@@ -45,11 +47,14 @@ ______________________________________
 
 #### 3. Precision and Recall
 **Presentation Date:** 26-Dec-2021
+
 **By:** Rayen BEN ISMAIL
 
 #### 4. K-Means Clustering
 **Presentation Date:** 9-Jan-2022
+
 **By:** Rayen BEN ISMAIL
+
 **Labs:**
 - Unsupervised Clustering Analysis using K-Means on Synthetic 2D Data	9-Jan-2022
 - 3D Clustering Analysis of Wholesale Customer Data using K-Means	9-Jan-2022
@@ -63,7 +68,9 @@ ________________________________________________________________________________
 
 ### Forward Propagation
 **Presentation Date:** 16-Jan-2022
+
 **By:** Fatma CHAOUECH
+
 **Labs:**
 - MLPClassifier for Price Range on Mobile Devices	16-Jan-2022
 - Neural Network Modeling for Diabetes Prediction	24-Jun-2022
@@ -73,7 +80,9 @@ ___________________________________________________________________
 
 #### Convolutional Layer
 **Presentation Date:** 20-Mar-2022
+
 **By:** Rayen BEN ISMAIL
+
 **Labs:**
 - DL-based Malaria Parasite Detection using EfficientNetB0 & Image Augmentation	20-Mar-2022
 - Custom CNN for MNIST Image Classification and Object Localization with TensorFlow	3-Apr-2022
@@ -111,7 +120,9 @@ __________________________
 
 ##### 1. Image Augmentation on the Fly using Keras ImageDataGenerator
 **Presentation Date:** 27-Mar-2022
+
 **By:** Emna FEKI
+
 **Labs:**
 - EfficientNet-based Malaria Cell Classification with Data Augmentation & Early Stopping	20-Mar-2022
 - Vegetable Image Classification using CNNs with Data Augmentation & Learning Rate Scheduling	24-Mar-2022
@@ -121,7 +132,9 @@ __________________________
 
 ##### 2. Transfer Learning
 **Presentation Date:** 6-Jul-2022
+
 **By:** Rayen BEN ISMAIL
+
 **Labs:**
 - Vegetable Image Classification using Transfer Learning with VGG19	24-Mar-2022
 - Transfer Learning with TensorFlow & ResNet152V2 for Multi-class Image Classification	8-Jul-2022
@@ -136,14 +149,18 @@ __________________________
 
 ##### 1. Detectron2: Meta's AI Framework
 **Presentation Date:** 6-May-2022
+
 **By:** Rayen BEN ISMAIL
+
 **Labs:**
 - Object Detection using Detectron2 with Faster R-CNN and CUDA Acceleration	6-May-2022
 - Automated Cell Instance Segmentation Using Detectron2 and COCO Format Augmentation	15-Apr-2022
 
 ##### 2. Fast R-CNN, Faster R-CNN, Mask R-CNN
 **Presentation Date:** 8-Apr-2022
+
 **By:** Rayen BEN ISMAIL
+
 **Labs:**
 - Ship Detection with Mask R-CNN, Data Augmentation and Transfer Learning on COCO Dataset	10-Jul-2022
 
@@ -160,7 +177,9 @@ __________________________
 
 ##### 2. PyTorch
 **Presentation Date:** 10-Jul-2022
+
 **By:** Fatma CHAOUECH
+
 **Labs:**
 - Swimming Pool and Car Detection from Satellite Imagery with PyTorch	10-Jul-2022
 __________________________
@@ -173,16 +192,20 @@ __________________________
 
 ##### 2. Challenges for mapping cyanotoxin patterns from remote sensing of cyanobacteria
 **Presentation Date:** 26-Jan-2023
+
 **By:** Rayen BEN ISMAIL
 
 ##### 3. Mapping algal bloom dynamics in small reservoirs using Sentinel-2 imagery in Google Earth Engine
 **Presentation Date:** 30-Jan-2023
+
 **By:** Oussama MAHFOUDHI
+
 **Labs:**
 - Tick Tick Bloom: Harmful Algal Bloom Detection Challenge
 
 ##### 4. Remote sensing of cyanobacterial blooms in a hypertrophic lagoon using multitemporal Sentinel-2 images
 **Presentation Date:** 1-Feb-2023
+
 **By:** Rayen BEN ISMAIL
 ___________________________________________________________________
 
@@ -190,16 +213,20 @@ ___________________________________________________________________
 
 #### 1. Sentiment Analysis
 **Presentation Date:** 13-Oct-2022
+
 **By:** Emna FEKI, Yessine JMAL
+
 **Labs:**
 - Facial Expression Recognition with Xception Transfer Learning and Data Augmentation	13-Oct-2022
 
 #### 2. Language Models
 **Presentation Date:** 13-Nov-2022
+
 **By:** Rayen BEN ISMAIL
 
 #### 3. Consruction of the Document-Text Matrix in Text Mining
 **Presentation Date:** 22-Nov-2022
+
 **By:** Rahma BOUJELBEN
 ___________________________________________________________________
 
@@ -207,6 +234,7 @@ ___________________________________________________________________
 
 #### Data-driven Machine Vision for Fast and Reliable Predictions
 **Presentation Date:** 4-Dec-2022
+
 **By:** Oussama MAHFOUDHI
 ________________________________________________________________________________________________
 
@@ -214,7 +242,9 @@ ________________________________________________________________________________
 
 ### Reinforcement Learning
 **Presentation Date:** 8-Jun-2023
+
 **By:** Rayen BEN ISMAIL, Oussama MAHFOUDHI
+
 **Labs:**
 
 #### Actor-Critic
