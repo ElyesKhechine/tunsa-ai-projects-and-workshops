@@ -8,6 +8,7 @@ All colabs, presentations and learning resources we have used throughout the jou
 
 ### Introduction to Machine Learning
 **Presentation Date:** 5-Dec-2021
+
 **By:** Rayen BEN ISMAIL
 ______________________________________
 
@@ -15,9 +16,11 @@ ______________________________________
 
 #### 1. Introduction to Supervised Learning
 **Presentation Date:** 12-Dec-2021
+
 **By:** Fatma CHAOUECH
 
 #### 2. Linear Regression
+
 **Labs:**
 - Linear Regression for USA House Price Prediction with Feature Impact Analysis	(12-Dec-2021)
 - Data Encoding and TensorFlow Regression for House Price Prediction	(2-Jan-2022)
@@ -86,15 +89,19 @@ __________________________
 
 ##### 2. YOLO Real-time Object Detection
 **Presentation Date:** 3-Apr-2022
+
 **By:** Amani BCHIR
+
 **Labs:**
 - Implementation of YOLOv5 for Object Detection in Images	12-Jun-2022
 - Real-time Object Detection using YOLOv3 with Darknet 12-Jun-2022
 - YOLOv5 Training and Inference for Hard-Hat Detection Using Roboflow and Tensorboard in Ultralytics Environment 12-Jun-2022
 
-# ##### 3. YOLOR
+##### 3. YOLOR
 **Presentation Date:** 10-Apr-2022
+
 **By:** Hamza KALFAT, Elyes KHECHINE
+
 **Labs:**
 - YOLOR Object Detection with PyTorch Setup and Video Inference	3-May-2022
 - Training YOLOR on a Custom Bloodcells Dataset	8-May-2022
