@@ -270,6 +270,7 @@ ________________________________________________________________________________
 - Multi-armed Bandits
 - Temporal Difference Methods
 
+__________________________
 
 To learn the reinforcement learning topic, we decided to follow the book "Reinforcement Learning: An Introduction" by Richard S. Sutton and Andrew G. Barto. Here is the official book index we followed:
 
