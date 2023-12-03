@@ -6,16 +6,16 @@ All colabs, presentations and learning resources we have used throughout the jou
 
 ## Machine Learning
 
-### Introduction to Machine Learning (Presentation)
-*Date:* 5-Dec-2021
+### Introduction to Machine Learning
+*Presentation:* 5-Dec-2021
 
 *By:* Rayen BEN ISMAIL
 ______________________________________
 
 ### Supervised Learning
 
-#### 1. Introduction to Supervised Learning (Presentation)
-*Date:* 12-Dec-2021
+#### 1. Introduction to Supervised Learning
+*Presentation:* 12-Dec-2021
 
 *By:* Fatma CHAOUECH
 
@@ -25,8 +25,8 @@ ______________________________________
 - Data Encoding and TensorFlow Regression for House Price Prediction	(2-Jan-2022)
 - Data Preprocessing and Feature Selection for Real Estate Price Prediction	(2-Jan-2022)
 
-#### 3. Over-fitting vs Under-fitting (Presentation)
-*Date:* 19-Dec-2021
+#### 3. Over-fitting vs Under-fitting
+*Presentation:* 19-Dec-2021
 
 *By:* Rayen BEN ISMAIL
 
@@ -34,8 +34,8 @@ ______________________________________
 
 ### Unupervised Learning
 
-#### 1. Logistic Regression (Presentation)
-*Date:* 19-Dec-2021
+#### 1. Logistic Regression
+*Presentation:* 19-Dec-2021
 
 *By:* Fatma CHAOUECH
 
@@ -46,13 +46,13 @@ ______________________________________
 *Colabs:*
 - Optimization & Convergence Analysis in Gradient Descent & Newton's Method for Multivariate Functions	23-Dec-2021
 
-#### 3. Precision and Recall (Presentation)
-*Date:* 26-Dec-2021
+#### 3. Precision and Recall
+*Presentation:* 26-Dec-2021
 
 *By:* Rayen BEN ISMAIL
 
-#### 4. K-Means Clustering (Presentation)
-*Date:* 9-Jan-2022
+#### 4. K-Means Clustering
+*Presentation:* 9-Jan-2022
 
 *By:* Rayen BEN ISMAIL
 
@@ -67,8 +67,8 @@ ________________________________________________________________________________
 
 ## Deep Learning
 
-### Forward Propagation (Presentation)
-*Date:* 16-Jan-2022
+### Forward Propagation
+*Presentation:* 16-Jan-2022
 
 *By:* Fatma CHAOUECH
 
@@ -79,8 +79,8 @@ ___________________________________________________________________
 
 ### CNNs
 
-#### Convolutional Layer (Presentation)
-*Date:* 20-Mar-2022
+#### Convolutional Layer
+*Presentation:* 20-Mar-2022
 
 *By:* Rayen BEN ISMAIL
 
@@ -93,13 +93,13 @@ __________________________
 
 #### Object Detection
 
-##### 1. Fast R-CNN, Faster R-CNN (Presentation)
-*Date:* 28-Mar-2022
+##### 1. Fast R-CNN, Faster R-CNN
+*Presentation:* 28-Mar-2022
 
 *By:* Rayen BEN ISMAIL
 
-##### 2. YOLO Real-time Object Detection (Presentation)
-*Date:* 3-Apr-2022
+##### 2. YOLO Real-time Object Detection
+*Presentation:* 3-Apr-2022
 
 *By:* Amani BCHIR
 
@@ -108,8 +108,8 @@ __________________________
 - Real-time Object Detection using YOLOv3 with Darknet 12-Jun-2022
 - YOLOv5 Training and Inference for Hard-Hat Detection Using Roboflow and Tensorboard in Ultralytics Environment 12-Jun-2022
 
-##### 3. YOLOR (Presentation)
-*Date:* 10-Apr-2022
+##### 3. YOLOR
+*Presentation:* 10-Apr-2022
 
 *By:* Hamza KALFAT, Elyes KHECHINE
 
@@ -120,8 +120,8 @@ __________________________
 
 #### Image Classification
 
-##### 1. Image Augmentation on the Fly using Keras ImageDataGenerator (Presentation)
-*Date:* 27-Mar-2022
+##### 1. Image Augmentation on the Fly using Keras ImageDataGenerator
+*Presentation:* 27-Mar-2022
 
 *By:* Emna FEKI
 
@@ -132,8 +132,8 @@ __________________________
 - DL-based Rice Disease Image Classification with Data Augmentation	10-Nov-2022
 - Integrating Datasets from Kaggle, Drive, and Tensorflow for Image Classification	10-Jul-2022
 
-##### 2. Transfer Learning (Presentation)
-*Date:* 6-Jul-2022
+##### 2. Transfer Learning
+*Presentation:* 6-Jul-2022
 
 *By:* Rayen BEN ISMAIL
 
@@ -149,8 +149,8 @@ __________________________
 
 #### Image Segmentation
 
-##### 1. Detectron2: Meta's AI Framework (Presentation)
-*Date:* 6-May-2022
+##### 1. Detectron2: Meta's AI Framework
+*Presentation:* 6-May-2022
 
 *By:* Rayen BEN ISMAIL
 
@@ -158,16 +158,16 @@ __________________________
 - Object Detection using Detectron2 with Faster R-CNN and CUDA Acceleration	6-May-2022
 - Automated Cell Instance Segmentation Using Detectron2 and COCO Format Augmentation	15-Apr-2022
 
-##### 2. Fast R-CNN, Faster R-CNN, Mask R-CNN (Presentation)
-*Date:* 8-Apr-2022
+##### 2. Fast R-CNN, Faster R-CNN, Mask R-CNN
+*Presentation:* 8-Apr-2022
 
 *By:* Rayen BEN ISMAIL
 
 *Colabs:*
 - Ship Detection with Mask R-CNN, Data Augmentation and Transfer Learning on COCO Dataset	10-Jul-2022
 
-##### 3. Semantic Segmentation Detection using Multi-sensory Data (Presentation)
-*Date:* 8-Jan-2023
+##### 3. Semantic Segmentation Detection using Multi-sensory Data
+*Presentation:* 8-Jan-2023
 
 *By:* Rayen BEN ISMAIL
 __________________________
@@ -178,8 +178,8 @@ __________________________
 *Colabs:*
 - Automated Machine Learning Pipeline for Titanic Survival Prediction Using PyCaret and LightGBM	12-Jun-2022
 
-##### 2. PyTorch (Presentation)
-*Date:* 10-Jul-2022
+##### 2. PyTorch
+*Presentation:* 10-Jul-2022
 
 *By:* Fatma CHAOUECH
 
@@ -193,58 +193,58 @@ __________________________
 *Colabs:*
 - ResNet-based Ship Classification using ShipsNet Dataset	10-Jul-2022
 
-##### 2. Challenges for mapping cyanotoxin patterns from remote sensing of cyanobacteria (Presentation)
-*Date* 26-Jan-2023
+##### 2. Challenges for mapping cyanotoxin patterns from remote sensing of cyanobacteria
+*Presentation* 26-Jan-2023
 
 *By:* Rayen BEN ISMAIL
 
-##### 3. Mapping algal bloom dynamics in small reservoirs using Sentinel-2 imagery in Google Earth Engine (Presentation)
-*Date:* 30-Jan-2023
+##### 3. Mapping algal bloom dynamics in small reservoirs using Sentinel-2 imagery in Google Earth Engine
+*Presentation:* 30-Jan-2023
 
 *By:* Oussama MAHFOUDHI
 
 *Colabs:*
 - Tick Tick Bloom: Harmful Algal Bloom Detection Challenge
 
-##### 4. Remote sensing of cyanobacterial blooms in a hypertrophic lagoon using multitemporal Sentinel-2 images (Presentation)
-*Date:* 1-Feb-2023
+##### 4. Remote sensing of cyanobacterial blooms in a hypertrophic lagoon using multitemporal Sentinel-2 images
+*Presentation:* 1-Feb-2023
 
 *By:* Rayen BEN ISMAIL
 ___________________________________________________________________
 
 ### NLP
 
-#### 1. Sentiment Analysis (Presentation)
-*Date:* 13-Oct-2022
+#### 1. Sentiment Analysis
+*Presentation:* 13-Oct-2022
 
 *By:* Emna FEKI, Yessine JMAL
 
 *Colabs:*
 - Facial Expression Recognition with Xception Transfer Learning and Data Augmentation	13-Oct-2022
 
-#### 2. Language Models (Presentation)
-*Date:* 13-Nov-2022
+#### 2. Language Models
+*Presentation:* 13-Nov-2022
 
 *By:* Rayen BEN ISMAIL
 
-#### 3. Consruction of the Document-Text Matrix in Text Mining (Presentation)
-*Date:* 22-Nov-2022
+#### 3. Consruction of the Document-Text Matrix in Text Mining
+*Presentation:* 22-Nov-2022
 
 *By:* Rahma BOUJELBEN
 ___________________________________________________________________
 
 ### BNNs
 
-#### Data-driven Machine Vision for Fast and Reliable Predictions (Presentation)
-*Date:* 4-Dec-2022
+#### Data-driven Machine Vision for Fast and Reliable Predictions
+*Presentation:* 4-Dec-2022
 
 *By:* Oussama MAHFOUDHI
 ________________________________________________________________________________________________
 
 ## Reinforcement Learning
 
-### Reinforcement Learning (Presentation)
-*Date:* 8-Jun-2023
+### Reinforcement Learning
+*Presentation:* 8-Jun-2023
 
 *By:* Rayen BEN ISMAIL, Oussama MAHFOUDHI
 
