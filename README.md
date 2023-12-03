@@ -13,17 +13,17 @@ ______________________________________
 
 ### Supervised Learning
 
-#### Introduction to Supervised Learning
+#### 1. Introduction to Supervised Learning
 **Presentation Date:** 12-Dec-2021
 **By:** Fatma CHAOUECH
 
-#### Linear Regression
+#### 2. Linear Regression
 **Labs:**
-  - Linear Regression for USA House Price Prediction with Feature Impact Analysis	(12-Dec-2021)
-  - Data Encoding and TensorFlow Regression for House Price Prediction	(2-Jan-2022)
-  - Data Preprocessing and Feature Selection for Real Estate Price Prediction	(2-Jan-2022)
+- Linear Regression for USA House Price Prediction with Feature Impact Analysis	(12-Dec-2021)
+- Data Encoding and TensorFlow Regression for House Price Prediction	(2-Jan-2022)
+- Data Preprocessing and Feature Selection for Real Estate Price Prediction	(2-Jan-2022)
 
-#### Over-fitting vs Under-fitting
+#### 3. Over-fitting vs Under-fitting
 **Presentation Date:** 19-Dec-2021
 **By:** Rayen BEN ISMAIL
 ______________________________________
