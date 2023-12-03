@@ -30,21 +30,21 @@ ______________________________________
 
 ### Unupervised Learning
 
-#### Logistic Regression
+#### 1. Logistic Regression
 **Presentation Date:** 19-Dec-2021
 **By:** Fatma CHAOUECH
 **Labs:**
 - Fraud Detection with Logistic Regression on Imbalanced Credit Card Transactions Dataset (21-Dec-2021)
 
-#### Optimization Techniques
+#### 2. Optimization Techniques
 **Labs:**
 - Optimization & Convergence Analysis in Gradient Descent & Newton's Method for Multivariate Functions	23-Dec-2021
 
-#### Precision and Recall
+#### 3. Precision and Recall
 **Presentation Date:** 26-Dec-2021
 **By:** Rayen BEN ISMAIL
 
-#### K-Means Clustering
+#### 4. K-Means Clustering
 **Presentation Date:** 9-Jan-2022
 **By:** Rayen BEN ISMAIL
 **Labs:**
@@ -68,7 +68,7 @@ ___________________________________________________________________
 
 ### CNNs
 
-## Convolutional Layer
+#### Convolutional Layer
 **Presentation Date:** 20-Mar-2022
 **By:** Rayen BEN ISMAIL
 **Labs:**
@@ -78,13 +78,13 @@ ___________________________________________________________________
 - Pneumonia Detection using VGG16-based CNN Models on Chest X-ray Images	24-Mar-22
 __________________________
 
-## Object Detection
+#### Object Detection
 
-# Fast R-CNN, Faster R-CNN
+##### 1. Fast R-CNN, Faster R-CNN
 **Presentation Date:** 28-Mar-2022
 **By:** Rayen BEN ISMAIL
 
-# YOLO Real-time Object Detection
+##### 2. YOLO Real-time Object Detection
 **Presentation Date:** 3-Apr-2022
 **By:** Amani BCHIR
 **Labs:**
@@ -92,7 +92,7 @@ __________________________
 - Real-time Object Detection using YOLOv3 with Darknet 12-Jun-2022
 - YOLOv5 Training and Inference for Hard-Hat Detection Using Roboflow and Tensorboard in Ultralytics Environment 12-Jun-2022
 
-# YOLOR
+# ##### 3. YOLOR
 **Presentation Date:** 10-Apr-2022
 **By:** Hamza KALFAT, Elyes KHECHINE
 **Labs:**
@@ -100,9 +100,9 @@ __________________________
 - Training YOLOR on a Custom Bloodcells Dataset	8-May-2022
 __________________________
 
-## Image Classification
+#### Image Classification
 
-# Image Augmentation on the Fly using Keras ImageDataGenerator
+##### 1. Image Augmentation on the Fly using Keras ImageDataGenerator
 **Presentation Date:** 27-Mar-2022
 **By:** Emna FEKI
 **Labs:**
@@ -112,7 +112,7 @@ __________________________
 - DL-based Rice Disease Image Classification with Data Augmentation	10-Nov-2022
 - Integrating Datasets from Kaggle, Drive, and Tensorflow for Image Classification	10-Jul-2022
 
-# Transfer Learning
+##### 2. Transfer Learning
 **Presentation Date:** 6-Jul-2022
 **By:** Rayen BEN ISMAIL
 **Labs:**
@@ -120,87 +120,85 @@ __________________________
 - Transfer Learning with TensorFlow & ResNet152V2 for Multi-class Image Classification	8-Jul-2022
 - Facial Expression Recognition with Xception Transfer Learning and Data Augmentation	13-Oct-2022
 
-# Residual Neural Networks
+##### 3. Residual Neural Networks
 **Labs:**
 - ResNet-based Ship Classification using ShipsNet Dataset	10-Jul-2022
 __________________________
 
-## Image Segmentation
+#### Image Segmentation
 
-# Detectron2: Meta's AI Framework
+##### 1. Detectron2: Meta's AI Framework
 **Presentation Date:** 6-May-2022
 **By:** Rayen BEN ISMAIL
 **Labs:**
 - Object Detection using Detectron2 with Faster R-CNN and CUDA Acceleration	6-May-2022
 - Automated Cell Instance Segmentation Using Detectron2 and COCO Format Augmentation	15-Apr-2022
 
-# Fast R-CNN, Faster R-CNN, Mask R-CNN
+##### 2. Fast R-CNN, Faster R-CNN, Mask R-CNN
 **Presentation Date:** 8-Apr-2022
 **By:** Rayen BEN ISMAIL
 **Labs:**
 - Ship Detection with Mask R-CNN, Data Augmentation and Transfer Learning on COCO Dataset	10-Jul-2022
 
-# Semantic Segmentation Detection using Multi-sensory Data
+##### 3. Semantic Segmentation Detection using Multi-sensory Data
 **Presentation Date:** 8-Jan-2023
 **By:** Rayen BEN ISMAIL
 __________________________
 
-## Frameworks
+#### Frameworks
 
-# LightGBM
+##### 1. LightGBM
 **Labs:**
 - Automated Machine Learning Pipeline for Titanic Survival Prediction Using PyCaret and LightGBM	12-Jun-2022
 
-# PyTorch
+##### 2. PyTorch
 **Presentation Date:** 10-Jul-2022
 **By:** Fatma CHAOUECH
 **Labs:**
 - Swimming Pool and Car Detection from Satellite Imagery with PyTorch	10-Jul-2022
 __________________________
 
-## Satellite Imagery
+#### Satellite Imagery
 
-# ResNet
+##### 1. ResNet
 **Labs:**
 - ResNet-based Ship Classification using ShipsNet Dataset	10-Jul-2022
 
-# Challenges for mapping cyanotoxin patterns from remote sensing of cyanobacteria
+##### 2. Challenges for mapping cyanotoxin patterns from remote sensing of cyanobacteria
 **Presentation Date:** 26-Jan-2023
 **By:** Rayen BEN ISMAIL
 
-# Mapping algal bloom dynamics in small reservoirs using Sentinel-2 imagery in Google Earth Engine
+##### 3. Mapping algal bloom dynamics in small reservoirs using Sentinel-2 imagery in Google Earth Engine
 **Presentation Date:** 30-Jan-2023
 **By:** Oussama MAHFOUDHI
 **Labs:**
 - Tick Tick Bloom: Harmful Algal Bloom Detection Challenge
 
-# Remote sensing of cyanobacterial blooms in a hypertrophic lagoon using multitemporal Sentinel-2 images
+##### 4. Remote sensing of cyanobacterial blooms in a hypertrophic lagoon using multitemporal Sentinel-2 images
 **Presentation Date:** 1-Feb-2023
 **By:** Rayen BEN ISMAIL
 ___________________________________________________________________
 
 ### NLP
 
-# Sentiment Analysis
+#### 1. Sentiment Analysis
 **Presentation Date:** 13-Oct-2022
 **By:** Emna FEKI, Yessine JMAL
 **Labs:**
 - Facial Expression Recognition with Xception Transfer Learning and Data Augmentation	13-Oct-2022
 
-# Language Models
+#### 2. Language Models
 **Presentation Date:** 13-Nov-2022
 **By:** Rayen BEN ISMAIL
-**Labs:**
 
-# Consruction of the Document-Text Matrix in Text Mining
+#### 3. Consruction of the Document-Text Matrix in Text Mining
 **Presentation Date:** 22-Nov-2022
 **By:** Rahma BOUJELBEN
-**Labs:**
 ___________________________________________________________________
 
 ### BNNs
 
-# Data-driven Machine Vision for Fast and Reliable Predictions
+#### Data-driven Machine Vision for Fast and Reliable Predictions
 **Presentation Date:** 4-Dec-2022
 **By:** Oussama MAHFOUDHI
 ________________________________________________________________________________________________
@@ -208,28 +206,32 @@ ________________________________________________________________________________
 ## Reinforcement Learning
 
 ### Reinforcement Learning
-- **Presentation Date:** 8-Jun-2023
-- **By:** Rayen BEN ISMAIL, Oussama MAHFOUDHI
+**Presentation Date:** 8-Jun-2023
+**By:** Rayen BEN ISMAIL, Oussama MAHFOUDHI
+**Labs:**
 
-### Deep Reinforcement Learning
-#### Deep Reinforcement Learning for Atari Breakout v0
-- **By:** Rayen BEN ISMAIL
+#### Actor-Critic
+- Deep RL A2C for Atari Breakout v0 using stable Baselines 3	9-Oct-2022
+
+#### Cross Entropy Method
+- RL Cross Entropy Method
+
+#### Deep Q-Learning
+- Deep Q-Learning Agent for CartPole-v1 using TensorFlow and Keras-RL	13-Nov-2022
+
+#### Tabular Q-Learning
+- FrozenLake-v1 Value Iteration using Tabular Q-Learning
+
+#### Tabular Solution Methods
+- Dynamic Programming
+- Finite Markov Decision Process
+- Monte Carlo Methods
+- Multi-armed Bandits
+- Temporal Difference Methods
 
 
+To learn the reinforcement learning topic, we decided to follow the book "Reinforcement Learning: An Introduction" by Richard S. Sutton and Andrew G. Barto. Here is the official book index we followed:
 
-
-
-
-
-
-
-
-
-# TUNSA's journey with Reinforcement Learning
-
-## Contents of Reinforcement Learning Branch
-
-To learn this topic, We have decided to follow along "Reinforcement Learning: An Introduction" by Richard S. Sutton and Andrew G. Barto. Here is the official book index:
 1) The Reinforcement Learning Problem
 
 I) Tabular Solution Methods
@@ -254,3 +256,9 @@ III) Frontiers
 13) Neuroscience
 14) Applications and Case Studies
 15) Prospects
+
+
+
+
+
+
