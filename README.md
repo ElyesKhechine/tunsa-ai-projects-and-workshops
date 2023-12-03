@@ -31,15 +31,3 @@ III) Frontiers
 13) Neuroscience
 14) Applications and Case Studies
 15) Prospects
-=======
-# tunsa-ai-projects-and-workshops
-A repository containing all projects we have done in TUNSA's Artificial Intelligence team since it's creation in November 2021.
->>>>>>> 530e9a19c2fb47a16c2ab7decb310edc7d3b9f8e
-=======
-# tunsa-ai-projects-and-workshops
-A repository containing all projects we have done in TUNSA's Artificial Intelligence team since it's creation in November 2021.
->>>>>>> 530e9a19c2fb47a16c2ab7decb310edc7d3b9f8e
-=======
-# tunsa-ai-projects-and-workshops
-A repository containing all projects we have done in TUNSA's Artificial Intelligence team since it's creation in November 2021.
->>>>>>> 530e9a19c2fb47a16c2ab7decb310edc7d3b9f8e
