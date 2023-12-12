@@ -11,7 +11,7 @@ ______________________________________
 *Presentation:* 5-Dec-2021
 
 *By:* Rayen BEN ISMAIL
-______________________________________
+
 
 ### Supervised Learning
 
@@ -31,7 +31,7 @@ ______________________________________
 
 *By:* Rayen BEN ISMAIL
 
-______________________________________
+
 
 ### Unsupervised Learning
 
@@ -76,7 +76,7 @@ ________________________________________________________________________________
 *Colabs:*
 - MLPClassifier for Price Range on Mobile Devices	16-Jan-2022
 - Neural Network Modeling for Diabetes Prediction	24-Jun-2022
-___________________________________________________________________
+
 
 ### CNNs
 
@@ -90,7 +90,7 @@ ___________________________________________________________________
 - Custom CNN for MNIST Image Classification and Object Localization with TensorFlow	3-Apr-2022
 - MNIST Data: Under-sampling, Balancing, and CNN Model Training for Digit Recognition	26-Mar-2022
 - Pneumonia Detection using VGG16-based CNN Models on Chest X-ray Images	24-Mar-22
-__________________________
+
 
 #### Object Detection
 
@@ -117,7 +117,7 @@ __________________________
 *Colabs:*
 - YOLOR Object Detection with PyTorch Setup and Video Inference	3-May-2022
 - Training YOLOR on a Custom Bloodcells Dataset	8-May-2022
-__________________________
+
 
 #### Image Classification
 
@@ -146,7 +146,7 @@ __________________________
 ##### 3. Residual Neural Networks
 *Colabs:*
 - ResNet-based Ship Classification using ShipsNet Dataset	10-Jul-2022
-__________________________
+
 
 #### Image Segmentation
 
@@ -171,7 +171,7 @@ __________________________
 *Presentation:* 8-Jan-2023
 
 *By:* Rayen BEN ISMAIL
-__________________________
+
 
 #### Frameworks
 
@@ -186,7 +186,7 @@ __________________________
 
 *Colabs:*
 - Swimming Pool and Car Detection from Satellite Imagery with PyTorch	10-Jul-2022
-__________________________
+
 
 #### Satellite Imagery
 
@@ -211,7 +211,7 @@ __________________________
 *Presentation:* 1-Feb-2023
 
 *By:* Rayen BEN ISMAIL
-___________________________________________________________________
+
 
 ### NLP
 
@@ -232,7 +232,7 @@ ___________________________________________________________________
 *Presentation:* 22-Nov-2022
 
 *By:* Rahma BOUJELBEN
-___________________________________________________________________
+
 
 ### BNNs
 
