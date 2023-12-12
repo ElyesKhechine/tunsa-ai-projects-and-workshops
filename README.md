@@ -45,7 +45,7 @@ ______________________________________
 
 #### 2. Optimization Techniques
 *Colabs:*
-- Optimization & Convergence Analysis in Gradient Descent & Newton's Method for Multivariate Functions	23-Dec-2021
+- Optimization & Convergence Analysis in Gradient Descent & Newton's Method for Multivariate Functions	(23-Dec-2021)
 
 #### 3. Precision and Recall
 *Presentation:* 26-Dec-2021
@@ -58,12 +58,12 @@ ______________________________________
 *By:* Rayen BEN ISMAIL
 
 *Colabs:*
-- Unsupervised Clustering Analysis using K-Means on Synthetic 2D Data	9-Jan-2022
-- 3D Clustering Analysis of Wholesale Customer Data using K-Means	9-Jan-2022
-- Data Imputation, Normalization, and Multiple Regression Models for House Price Forecasting	4-Feb-2022
-- Feature Selection and Correlation Analysis for House Price Prediction 	6-Feb-2022
-- Predicting Term Deposit Subscriptions using Logistic Regression, Label Encoding and K-Means Clustering	20-Feb-2022
-- Heart Disease Classification with Decision Tree, Random Forest, and k-NN	14-Nov-2022
+- Unsupervised Clustering Analysis using K-Means on Synthetic 2D Data	(9-Jan-2022)
+- 3D Clustering Analysis of Wholesale Customer Data using K-Means	(9-Jan-2022)
+- Data Imputation, Normalization, and Multiple Regression Models for House Price Forecasting	(4-Feb-2022)
+- Feature Selection and Correlation Analysis for House Price Prediction 	(6-Feb-2022)
+- Predicting Term Deposit Subscriptions using Logistic Regression, Label Encoding and K-Means Clustering	(20-Feb-2022)
+- Heart Disease Classification with Decision Tree, Random Forest, and k-NN	(14-Nov-2022)
 ________________________________________________________________________________________________
 
 ## Deep Learning
@@ -74,8 +74,8 @@ ________________________________________________________________________________
 *By:* Fatma CHAOUECH
 
 *Colabs:*
-- MLPClassifier for Price Range on Mobile Devices	16-Jan-2022
-- Neural Network Modeling for Diabetes Prediction	24-Jun-2022
+- MLPClassifier for Price Range on Mobile Devices	(16-Jan-2022)
+- Neural Network Modeling for Diabetes Prediction	(24-Jun-2022)
 
 
 ### CNNs
@@ -86,10 +86,10 @@ ________________________________________________________________________________
 *By:* Rayen BEN ISMAIL
 
 *Colabs:*
-- DL-based Malaria Parasite Detection using EfficientNetB0 & Image Augmentation	20-Mar-2022
-- Custom CNN for MNIST Image Classification and Object Localization with TensorFlow	3-Apr-2022
-- MNIST Data: Under-sampling, Balancing, and CNN Model Training for Digit Recognition	26-Mar-2022
-- Pneumonia Detection using VGG16-based CNN Models on Chest X-ray Images	24-Mar-22
+- DL-based Malaria Parasite Detection using EfficientNetB0 & Image Augmentation	(20-Mar-2022)
+- Custom CNN for MNIST Image Classification and Object Localization with TensorFlow	(3-Apr-2022)
+- MNIST Data: Under-sampling, Balancing, and CNN Model Training for Digit Recognition	(26-Mar-2022)
+- Pneumonia Detection using VGG16-based CNN Models on Chest X-ray Images	(24-Mar-2022)
 
 
 #### Object Detection
@@ -105,9 +105,9 @@ ________________________________________________________________________________
 *By:* Amani BCHIR
 
 *Colabs:*
-- Implementation of YOLOv5 for Object Detection in Images	12-Jun-2022
-- Real-time Object Detection using YOLOv3 with Darknet 12-Jun-2022
-- YOLOv5 Training and Inference for Hard-Hat Detection Using Roboflow and Tensorboard in Ultralytics Environment 12-Jun-2022
+- Implementation of YOLOv5 for Object Detection in Images	(12-Jun-2022)
+- Real-time Object Detection using YOLOv3 with Darknet (12-Jun-2022)
+- YOLOv5 Training and Inference for Hard-Hat Detection Using Roboflow and Tensorboard in Ultralytics Environment (12-Jun-2022)
 
 ##### 3. YOLOR
 *Presentation:* 10-Apr-2022
@@ -115,8 +115,8 @@ ________________________________________________________________________________
 *By:* Hamza KALFAT, Elyes KHECHINE
 
 *Colabs:*
-- YOLOR Object Detection with PyTorch Setup and Video Inference	3-May-2022
-- Training YOLOR on a Custom Bloodcells Dataset	8-May-2022
+- YOLOR Object Detection with PyTorch Setup and Video Inference	(3-May-2022)
+- Training YOLOR on a Custom Bloodcells Dataset	(8-May-2022)
 
 
 #### Image Classification
@@ -127,11 +127,11 @@ ________________________________________________________________________________
 *By:* Emna FEKI
 
 *Colabs:*
-- EfficientNet-based Malaria Cell Classification with Data Augmentation & Early Stopping	20-Mar-2022
-- Vegetable Image Classification using CNNs with Data Augmentation & Learning Rate Scheduling	24-Mar-2022
-- Vegetable Image Classification using Convolutional Neural Networks with TensorFlow and Keras on Kaggle Dataset	27-Mar-2022
-- DL-based Rice Disease Image Classification with Data Augmentation	10-Nov-2022
-- Integrating Datasets from Kaggle, Drive, and Tensorflow for Image Classification	10-Jul-2022
+- EfficientNet-based Malaria Cell Classification with Data Augmentation & Early Stopping	(20-Mar-2022)
+- Vegetable Image Classification using CNNs with Data Augmentation & Learning Rate Scheduling	(24-Mar-2022)
+- Vegetable Image Classification using Convolutional Neural Networks with TensorFlow and Keras on Kaggle Dataset	(27-Mar-2022)
+- DL-based Rice Disease Image Classification with Data Augmentation	(10-Nov-2022)
+- Integrating Datasets from Kaggle, Drive, and Tensorflow for Image Classification	(10-Jul-2022)
 
 ##### 2. Transfer Learning
 *Presentation:* 6-Jul-2022
@@ -139,13 +139,13 @@ ________________________________________________________________________________
 *By:* Rayen BEN ISMAIL
 
 *Colabs:*
-- Vegetable Image Classification using Transfer Learning with VGG19	24-Mar-2022
-- Transfer Learning with TensorFlow & ResNet152V2 for Multi-class Image Classification	8-Jul-2022
-- Facial Expression Recognition with Xception Transfer Learning and Data Augmentation	13-Oct-2022
+- Vegetable Image Classification using Transfer Learning with VGG19	(24-Mar-2022)
+- Transfer Learning with TensorFlow & ResNet152V2 for Multi-class Image Classification	(8-Jul-2022)
+- Facial Expression Recognition with Xception Transfer Learning and Data Augmentation	(13-Oct-2022)
 
 ##### 3. Residual Neural Networks
 *Colabs:*
-- ResNet-based Ship Classification using ShipsNet Dataset	10-Jul-2022
+- ResNet-based Ship Classification using ShipsNet Dataset	(10-Jul-2022)
 
 
 #### Image Segmentation
@@ -156,8 +156,8 @@ ________________________________________________________________________________
 *By:* Rayen BEN ISMAIL
 
 *Colabs:*
-- Object Detection using Detectron2 with Faster R-CNN and CUDA Acceleration	6-May-2022
-- Automated Cell Instance Segmentation Using Detectron2 and COCO Format Augmentation	15-Apr-2022
+- Object Detection using Detectron2 with Faster R-CNN and CUDA Acceleration	(6-May-2022)
+- Automated Cell Instance Segmentation Using Detectron2 and COCO Format Augmentation	(15-Apr-2022)
 
 ##### 2. Fast R-CNN, Faster R-CNN, Mask R-CNN
 *Presentation:* 8-Apr-2022
@@ -165,7 +165,7 @@ ________________________________________________________________________________
 *By:* Rayen BEN ISMAIL
 
 *Colabs:*
-- Ship Detection with Mask R-CNN, Data Augmentation and Transfer Learning on COCO Dataset	10-Jul-2022
+- Ship Detection with Mask R-CNN, Data Augmentation and Transfer Learning on COCO Dataset	(10-Jul-2022)
 
 ##### 3. Semantic Segmentation Detection using Multi-sensory Data
 *Presentation:* 8-Jan-2023
@@ -177,7 +177,7 @@ ________________________________________________________________________________
 
 ##### 1. LightGBM
 *Colabs:*
-- Automated Machine Learning Pipeline for Titanic Survival Prediction Using PyCaret and LightGBM	12-Jun-2022
+- Automated Machine Learning Pipeline for Titanic Survival Prediction Using PyCaret and LightGBM	(12-Jun-2022)
 
 ##### 2. PyTorch
 *Presentation:* 10-Jul-2022
@@ -185,14 +185,14 @@ ________________________________________________________________________________
 *By:* Fatma CHAOUECH
 
 *Colabs:*
-- Swimming Pool and Car Detection from Satellite Imagery with PyTorch	10-Jul-2022
+- Swimming Pool and Car Detection from Satellite Imagery with PyTorch	(10-Jul-2022)
 
 
 #### Satellite Imagery
 
 ##### 1. ResNet
 *Colabs:*
-- ResNet-based Ship Classification using ShipsNet Dataset	10-Jul-2022
+- ResNet-based Ship Classification using ShipsNet Dataset	(10-Jul-2022)
 
 ##### 2. Challenges for mapping cyanotoxin patterns from remote sensing of cyanobacteria
 *Presentation* 26-Jan-2023
@@ -205,7 +205,7 @@ ________________________________________________________________________________
 *By:* Oussama MAHFOUDHI
 
 *Colabs:*
-- Tick Tick Bloom: Harmful Algal Bloom Detection Challenge
+- Tick Tick Bloom: Harmful Algal Bloom Detection Challenge (16-Feb-2023)
 
 ##### 4. Remote sensing of cyanobacterial blooms in a hypertrophic lagoon using multitemporal Sentinel-2 images
 *Presentation:* 1-Feb-2023
@@ -221,7 +221,7 @@ ________________________________________________________________________________
 *By:* Emna FEKI, Yessine JMAL
 
 *Colabs:*
-- Facial Expression Recognition with Xception Transfer Learning and Data Augmentation	13-Oct-2022
+- Facial Expression Recognition with Xception Transfer Learning and Data Augmentation	(13-Oct-2022)
 
 #### 2. Language Models
 *Presentation:* 13-Nov-2022
@@ -252,7 +252,7 @@ ________________________________________________________________________________
 *Colabs:*
 
 #### Actor-Critic
-- Deep RL A2C for Atari Breakout v0 using stable Baselines 3	9-Oct-2022
+- Deep RL A2C for Atari Breakout v0 using stable Baselines 3	(9-Oct-2022)
 
 #### Cross-Entropy Method
 - RL Cross-Entropy Method
@@ -271,7 +271,7 @@ ____________________________________
 ### Deep Reinforcement Learning
 
 #### 1. Deep Q-Learning
-- Deep Q-Learning Agent for CartPole-v1 using TensorFlow and Keras-RL	13-Nov-2022
+- Deep Q-Learning Agent for CartPole-v1 using TensorFlow and Keras-RL	(13-Nov-2022)
 
 #### 2. Deep Q-Networks (DQN)
 *Presentation:* 19-Nov-2023
