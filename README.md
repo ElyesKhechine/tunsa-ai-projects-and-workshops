@@ -266,7 +266,7 @@ ________________________________________________________________________________
 - Monte Carlo Methods
 - Multi-armed Bandits
 - Temporal Difference Methods
-____________________________________
+
 
 ### Deep Reinforcement Learning
 
@@ -280,7 +280,7 @@ ____________________________________
 
 *Colabs:*
 - DQN for Atari PONG Game (19-Nov-2023)
-____________________________________
+
 
 ### Multi-Agent Reinforcement Learning
 
