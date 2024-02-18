@@ -1,6 +1,6 @@
 # TUNSA's AI Team: Our Journey with AI
 
-Welcome to the TUNSA (Tunisian Space Association) AI Team's repository, where we document our journey in Artificial Intelligence. Below is a categorized list of our presentations and collaborative projects, organized by domains.
+Welcome to the Tunisian Space Association (TUNSA) AI team's repository, where we document our journey in Artificial Intelligence. Below is a categorized list of our presentations and collaborative projects, organized by domains.
 
 All labs, presentations, and learning resources we have used throughout the journey can be found in the following sheet: https://docs.google.com/spreadsheets/d/1nR_P1wmqDBzv-0wLM2uD-m2Ct69jh3RG3ITkfY3nxxM/edit?usp=sharing
 ______________________________________
