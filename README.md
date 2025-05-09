@@ -24,7 +24,7 @@ ______________________________________
 *Colabs:*
 - Linear Regression for USA House Price Prediction with Feature Impact Analysis	(12-Dec-2021)
 - Data Encoding and TensorFlow Regression for House Price Prediction	(2-Jan-2022)
-- Data Preprocessing and Feature Selection for Real Estate Price Prediction	(2-Jan-2022)
+- Data Preprocessing and Feature Selection for Real Estate Price Prediction	(2-Jan-2022) - *By:* Elyes KHECHINE, Yessine JMAL, Khalil BRAHEM
 
 #### 3. Over-fitting vs Under-fitting
 *Presentation:* 19-Dec-2021
